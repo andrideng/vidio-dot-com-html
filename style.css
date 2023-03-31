@@ -1,0 +1,179 @@
+.page {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nav-site {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-site__logo {
+    width: 120px;
+}
+
+.nav-site__menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.nav-site__menu li a {
+    color: #1e1e1e;
+    text-decoration: none;
+    font-weight: 800;
+    font-size:14px;
+}
+.nav-site__menu li a:hover {
+    opacity: .8;
+}
+
+.nav-site__input {
+    background-color: #eee;
+    color: #999;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nav-site__btn {
+    box-shadow: 0 2px 8px 0 rgba(30,30,30,.2);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.nav-site__btn--langganan {
+    background-color: #fc0f3a;
+    color: #fff;
+    
+}
+
+.nav-site__btn--masuk {
+    background-color: #fff;
+}
+
+/* slider */
+.slider {
+    background-image: url('https://thumbor.prod.vidiocdn.com/klZuURb81-81KpdFhubeoSlkkK4=/1336x480/filters:quality(75)/vidio-web-prod-headline/uploads/headline/premium_image/17400/surga-belok-kanan-378aee.jpg');
+    min-height: 60vh;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    position: relative;
+}
+
+
+.slider__title {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 50px;
+}
+
+.slider__subtitle {
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    font-size: 20px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card__content {
+    display: flex;
+    gap: 15px;
+}
+
+.card__content img {
+    width: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.iklan {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.iklan img {
+    border-radius: 15px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 12px;
+    background-color: #fc0f3a;
+    color: #fff;
+}
+
+.home-section {
+    padding: 20px;
+}
+
+.home-section__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-section__head a {
+    text-decoration: none;
+}
+
+.home-section__link {
+    font-size: 18px;
+}
+
+.home-section__title {
+    text-transform: uppercase;
+}
+
+.home-grid {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+.home-grid__item {
+    width: 300px;
+}
+
+.home-content__image {
+    box-shadow: 0 3px 6px 0 rgba(51,51,51,.2);
+    border-radius: 12px;
+    width: 100%;
+}
+
+.home-content__title {
+    font-size: 18px;
+}
+
+.circle {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+}
+.circle__image {
+    width: 150px;
+    box-shadow: 0 3px 6px 0 rgba(51,51,51,.2);
+    border-radius: 50%;
+}
+.circle__text {
+    text-align: center;
+}
