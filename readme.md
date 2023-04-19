@@ -1,6 +1,10 @@
 ## Vidio.com HTML
 Just for learning purpose
 
+| Deskripsi Project| Project membuat replikasi seperti vidio.com |
+| ------------- |:-------------:| -----:|
+| Nama Project| replikasi vidio.com |
+
 ## How to add key - github
 
 ```
