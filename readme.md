@@ -21,3 +21,35 @@ Just for learning purpose
 2. git commit -m "pesan commit"
 3. git push origin main
 ```
+
+Readme menggunakan markup language
+
+# Judul 1
+Alternative Judul 1
+===================
+
+## Judul 2
+Alternative Judul
+-----------------
+
+### Judul 3
+
+###### Judul ada sampai 6
+
+
+Ini adalah contoh _garis miring_ 
+
+Ini adalah contoh garis *miring dengan asteriks*
+
+Ini adalah contoh __bold text - cara 1 gunakan (underscore dua)__
+
+Ini adalah contoh **bold text - cara 2 gunakan (asteriks dua)**
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+
+Contoh Link:
+
+[Dokumentasi Lebih lengkap readme](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
