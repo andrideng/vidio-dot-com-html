@@ -64,3 +64,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 Contoh Link:
 
 [Dokumentasi Lebih lengkap readme](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Readme Best Practice - 1](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+
+[Readme Best Practice -2](https://github.com/jehna/readme-best-practices)
