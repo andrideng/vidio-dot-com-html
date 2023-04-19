@@ -14,3 +14,10 @@ Just for learning purpose
 4. run command: eval "$(ssh-agent -s)"
 5. ssh-add nfl
 ```
+
+## Step untuk push project ke github
+```
+1. git add .
+2. git commit -m "pesan commit"
+3. git push origin main
+```

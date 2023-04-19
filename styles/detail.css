@@ -1,0 +1,96 @@
+.holder_img {
+    min-height: 150px;
+    background: url('https://thumbor.prod.vidiocdn.com/mckA66qq6eMhIpPw9xCwGQpTor8=/424x630/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/7539/di-bulan-suci-ini-9f1cea.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(100px);
+}
+
+.description,
+.details {
+    display: flex;
+    margin: 0 120px;
+    margin-bottom: 50px;
+}
+
+.description__img {
+    width: 250px;
+    border-radius: 15px;
+    margin-top: -40px;
+    z-index: 1;
+}
+
+.description__content {
+    padding: 20px;
+}
+
+.description__icon {
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 5px 10px;
+    background: #eee;
+}
+
+.description__btn {
+    padding: 11px 23px;
+    outline: none;
+    text-align: center;
+    border: none;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+.description__btn--watch {
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,.24);
+    background-color: #fc0f3a;
+    color: #fff;
+}
+
+.description__btn--bagikan,
+.description__btn--daftarku {
+    color: #000;
+    font-weight: 700;
+}
+
+.details__nav {
+    flex-basis: 305px;
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.details__nav li:first-child {
+    font-weight: bolder;
+}
+
+.episode {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.episode__img {
+    width: 400px;
+    object-fit: contain;
+}
+
+.episode__content {
+    padding: 20px;
+}
+
+.episode__duration span:first-child {
+    color: #999;
+}
+
+.episode__duration span:last-child {
+    margin-left: 10px;
+    padding: 4px 10px;
+    font-size: 10px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    border-radius: 9px;
+    background-color: rgba(0,0,0,.35);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
