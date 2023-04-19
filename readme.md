@@ -1,9 +1,16 @@
 ## Vidio.com HTML
 Just for learning purpose
 
-Deskripsi Project | Project membuat replikasi seperti vidio.com
-
-Nama Project| replikasi vidio.com |
+<table border="1">
+    <tr>
+        <td>Deskripsi Project</td>
+        <td>Project membuat replikasi seperti vidio.com</td>
+    </tr>
+    <tr>
+        <td>Nama Project</td>
+        <td>replikasi vidio.com</td>
+    </tr>
+</table>
 
 ## How to add key - github
 
